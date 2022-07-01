@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "281301899900",
+    "project_id": "kambaj-4b3a2",
+    "storage_bucket": "kambaj-4b3a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281301899900:android:8816c339ba26b91b05c7f9",
+        "android_client_info": {
+          "package_name": "com.example.kambajapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281301899900-8koi9mnfd8e4r5f48p9pkrkkl6fa3to0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDltrOm4ggW0c1LRtKLSKAmMnU9009B7Tw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281301899900-8koi9mnfd8e4r5f48p9pkrkkl6fa3to0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
